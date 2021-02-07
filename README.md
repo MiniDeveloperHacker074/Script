@@ -1,2 +1,1 @@
-# Script
-Script hosting of map author Hacker074
+请勿更改
